@@ -24,7 +24,7 @@ const Home = async () => {
   return (
     <div className="">
       <h1 className="font-extrabold text-7xl">
-        Hello I'm{" "}
+        Hello I&apos;m{" "}
         <span className="bg-gradient-to-r from-orange-400 via-red-500 to-purple-600 bg-clip-text text-transparent">
           Rizwan
         </span>
